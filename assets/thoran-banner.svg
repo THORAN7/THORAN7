@@ -1,0 +1,47 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B1A"/>
+      <stop offset="0.5" stop-color="#111A3A"/>
+      <stop offset="1" stop-color="#170B29"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="80" x2="1100" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F7FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="text" x1="400" y1="100" x2="820" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.45" stop-color="#00F7FF"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#7C3AED" stroke-opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M0 260C180 210 230 300 410 246C600 188 650 274 820 220C980 170 1050 230 1200 178" stroke="url(#line)" stroke-width="2" opacity="0.65" filter="url(#glow)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 260C180 210 230 300 410 246C600 188 650 274 820 220C980 170 1050 230 1200 178;M0 220C180 280 260 190 430 238C590 285 700 180 850 232C1020 290 1080 170 1200 210;M0 260C180 210 230 300 410 246C600 188 650 274 820 220C980 170 1050 230 1200 178"/>
+  </path>
+  <circle cx="180" cy="82" r="3" fill="#00F7FF" filter="url(#glow)"><animate attributeName="cy" values="82;220;82" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="1020" cy="230" r="4" fill="#EC4899" filter="url(#glow)"><animate attributeName="cy" values="230;70;230" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="940" cy="72" r="2" fill="#7C3AED" filter="url(#glow)"><animate attributeName="cx" values="940;1040;940" dur="4s" repeatCount="indefinite"/></circle>
+
+  <g opacity="0.8" transform="translate(88 92)">
+    <path d="M0 0H72M0 0V72M72 72H0M72 72V0" stroke="url(#line)" stroke-width="2"/>
+    <circle cx="36" cy="36" r="18" stroke="#00F7FF" stroke-width="2" stroke-dasharray="5 7">
+      <animateTransform attributeName="transform" type="rotate" from="0 36 36" to="360 36 36" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="600" y="155" text-anchor="middle" fill="url(#text)" font-family="Verdana, sans-serif" font-size="72" font-weight="700" letter-spacing="10">THORAN</text>
+  <text x="600" y="198" text-anchor="middle" fill="#B8C1D9" font-family="monospace" font-size="16" letter-spacing="4">BUILD • LEARN • SHIP</text>
+  <path d="M470 220H730" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <text x="600" y="258" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="13" letter-spacing="2">AI / ML / COMPUTER VISION / FULL-STACK</text>
+</svg>
