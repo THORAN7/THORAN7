@@ -56,36 +56,46 @@ I'm a developer building practical projects across **AI, machine learning, compu
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
 <a href="https://github.com/THORAN7/AthleteAI-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=AthleteAI-Platform&theme=tokyonight&hide_border=true" alt="AthleteAI Platform" /></a>
+
+**AthleteAI Platform**  
+AI-powered tools and experiences for athletes, demonstrating modern JavaScript development and practical intelligent product design.
+
+</td>
+<td width="50%" align="center" valign="top">
+
 <a href="https://github.com/THORAN7/Object-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Object-detection&theme=tokyonight&hide_border=true" alt="Object Detection" /></a>
 
-<br>
+**Object Detection Studio**  
+YOLOv8-powered computer vision dashboard for detecting and labeling objects with configurable inference settings and visual results.
 
-<a href="https://github.com/THORAN7/Discord-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Discord-BOT&theme=tokyonight&hide_border=true" alt="Discord BOT" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/THORAN7/Discord-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Discord-BOT&theme=tokyonight&hide_border=true" alt="Discord Bot Suite" /></a>
+
+**Discord Bot Suite**  
+Modular Python bot for server moderation, automation, welcome systems, tickets, giveaways, leveling, logging, and music playback.
+
+</td>
+<td width="50%" align="center" valign="top">
+
 <a href="https://github.com/THORAN7/Sentiment-Analysis-WebApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Sentiment-Analysis-WebApp&theme=tokyonight&hide_border=true" alt="Sentiment Analysis WebApp" /></a>
 
+**Sentiment Analysis WebApp**  
+NLP platform for analyzing text, website content, Amazon reviews, and Reddit discussions with sentiment scoring and interactive charts.
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<details>
-<summary><b>Project highlights</b></summary>
-
-### 🏃 AthleteAI Platform
-
-AI-powered platform focused on building practical tools and experiences for athletes. The project demonstrates full-stack product development, modern JavaScript application design, and the integration of intelligent features into a user-focused platform.
-
-### 👁️ Object Detection Studio
-
-A YOLOv8-powered computer vision dashboard built with Python and Streamlit. It detects and labels objects in images while providing configurable confidence thresholds, annotated previews, detection statistics, and optimized model inference.
-
-### 🤖 Discord Bot Suite
-
-A modular Python bot built with discord.py for server management and community engagement. It provides moderation, auto-moderation, welcome systems, tickets, giveaways, leveling, custom commands, logging, and music playback with queue controls.
-
-### 💬 Sentiment Analysis WebApp
-
-An NLP-powered platform that analyzes text, website content, Amazon reviews, and Reddit discussions using NLTK VADER. It provides sentiment classification, text summarization, interactive charts, and both Streamlit and Tkinter interfaces.
-
-</details>
 
 ## 📊 GitHub activity
 
