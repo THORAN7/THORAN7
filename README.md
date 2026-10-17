@@ -58,17 +58,23 @@ I'm a developer building practical projects across **AI, machine learning, compu
 
 <a href="https://github.com/THORAN7/AthleteAI-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=AthleteAI-Platform&theme=tokyonight&hide_border=true" alt="AthleteAI Platform" /></a>
 <a href="https://github.com/THORAN7/Object-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Object-detection&theme=tokyonight&hide_border=true" alt="Object Detection" /></a>
+
+<br>
+
 <a href="https://github.com/THORAN7/Discord-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Discord-BOT&theme=tokyonight&hide_border=true" alt="Discord BOT" /></a>
 <a href="https://github.com/THORAN7/Sentiment-Analysis-WebApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Sentiment-Analysis-WebApp&theme=tokyonight&hide_border=true" alt="Sentiment Analysis WebApp" /></a>
 
 </div>
 
-| Project | Description |
-|---|---|
-| [AthleteAI Platform](https://github.com/THORAN7/AthleteAI-Platform) | AI-powered platform for athlete-focused tools and experiences. |
-| [Object Detection](https://github.com/THORAN7/Object-detection) | Computer vision project for identifying objects in images. |
-| [Discord BOT](https://github.com/THORAN7/Discord-BOT) | Python bot for Discord automation and interactions. |
-| [Sentiment Analysis WebApp](https://github.com/THORAN7/Sentiment-Analysis-WebApp) | Web app that analyzes sentiment from written text. |
+<details>
+<summary><b>Project highlights</b></summary>
+
+- **AthleteAI Platform** — AI-powered tools for athlete-focused experiences.
+- **Object Detection** — Computer vision for identifying objects in images.
+- **Discord BOT** — Python-based Discord automation and interactions.
+- **Sentiment Analysis WebApp** — Web app for analyzing sentiment in text.
+
+</details>
 
 ## 📊 GitHub activity
 
