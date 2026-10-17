@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm THORAN7 👋
+# Hey, I'm THORAN 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Builder;Computer+Vision+Enthusiast;Python+%7C+JavaScript+Developer;Turning+ideas+into+working+projects" alt="Typing SVG" /></a>
 
