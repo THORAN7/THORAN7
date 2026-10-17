@@ -2,14 +2,14 @@
 
 <img src="./assets/thoran-banner.svg" width="100%" alt="Animated cyber-neon banner for THORAN" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=THORAN+%7C+Build+%E2%80%A2+Learn+%E2%80%A2+Ship;AI+%26+Machine+Learning+Builder;Computer+Vision+Enthusiast;Python+%7C+JavaScript+Developer" alt="Animated typing introduction for THORAN" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Building+the+future+one+project+at+a+time;AI+%26+Machine+Learning+Builder;Computer+Vision+Enthusiast;Python+%7C+JavaScript+Developer" alt="Animated typing introduction for THORAN" /></a>
 
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=THORAN+%7C+Building+practical+AI+and+full-stack+projects;Learning+by+shipping%2C+testing%2C+and+improving;Turning+technical+ideas+into+useful+products" alt="Animated about section highlights for THORAN" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=THORAN+%7C+Building+practical+AI+experiences;Learn.+Build.+Break.+Improve.;Turning+ideas+into+working+projects." alt="Animated About me text" />
 </div>
 
 I'm a developer building practical projects across **AI, machine learning, computer vision, web applications, and automation**. I enjoy learning by shipping, experimenting with new ideas, and turning technical concepts into useful products.
@@ -22,12 +22,12 @@ I'm a developer building practical projects across **AI, machine learning, compu
 ## 🌐 Contact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=EC4899&center=true&vCenter=true&width=760&lines=Let%27s+connect+and+build+something+great;Open+to+collaboration%2C+ideas%2C+and+new+projects" alt="Animated contact invitation for THORAN" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=EC4899&center=true&vCenter=true&width=760&lines=Let's+connect+and+build+something+great!;Always+open+to+new+ideas+and+collaborations." alt="Animated contact message" />
 
   <p>
-    <a href="https://www.linkedin.com/in/thoran-o-b6921b3bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for THORAN" /></a>
-    <a href="mailto:thoran075@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email THORAN on Gmail" /></a>
-    <a href="https://discord.com/users/730394857784475671"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile for THORAN" /></a>
+    <a href="https://www.linkedin.com/in/thoran-o-b6921b3bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with THORAN on LinkedIn" /></a>
+    <a href="mailto:thoran075@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email THORAN with Gmail" /></a>
+    <a href="https://discord.com/users/730394857784475671"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message THORAN on Discord" /></a>
   </p>
 </div>
 
@@ -66,12 +66,12 @@ I'm a developer building practical projects across **AI, machine learning, compu
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THORAN7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="THORAN GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THORAN7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="THORAN GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THORAN7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages used by THORAN" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=THORAN7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=EC4899&currStreakLabel=00F7FF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=THORAN7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=EC4899&currStreakLabel=00F7FF" alt="THORAN GitHub contribution streak" />
 </div>
 
 ## 🐍 Contribution journey
