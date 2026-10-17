@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**THORAN7/THORAN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm THORAN7 👋
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Builder;Computer+Vision+Enthusiast;Python+%7C+JavaScript+Developer;Turning+ideas+into+working+projects" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/THORAN7?tab=followers"><img src="https://img.shields.io/github/followers/THORAN7?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub followers" /></a>
+  <a href="https://github.com/THORAN7?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-Explore-8b5cf6?style=for-the-badge" alt="Public projects" /></a>
+</p>
+
+</div>
+
+## About me
+
+I'm a developer building practical projects across **AI, machine learning, computer vision, web applications, and automation**. I enjoy learning by shipping, experimenting with new ideas, and turning technical concepts into useful products.
+
+- 🔭 Currently building: AI-powered and full-stack projects
+- 🧠 Interested in: machine learning, computer vision, automation, and intelligent applications
+- 🛠️ Approach: learn, build, improve, repeat
+- 🤝 Open to: interesting collaborations and constructive feedback
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,git,github,vscode" alt="Tech stack icons" />
+</p>
+
+## Featured projects
+
+| Project | What it demonstrates |
+|---|---|
+| [🏃 AthleteAI Platform](https://github.com/THORAN7/AthleteAI-Platform) | AI-focused platform development with JavaScript |
+| [🤖 Discord BOT](https://github.com/THORAN7/Discord-BOT) | Python automation and bot development |
+| [👁️ Object Detection](https://github.com/THORAN7/Object-detection) | Computer vision and machine learning |
+| [💬 Sentiment Analysis WebApp](https://github.com/THORAN7/Sentiment-Analysis-WebApp) | AI-powered web application development |
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THORAN7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="THORAN7's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THORAN7&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=THORAN7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+## Contribution animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</div>
+
+<div align="center">
+
+### Thanks for visiting 🚀
+
+<img src="https://komarev.com/ghpvc/?username=THORAN7&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
