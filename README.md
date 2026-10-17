@@ -63,6 +63,13 @@ I'm a developer building practical projects across **AI, machine learning, compu
 
 </div>
 
+| Project | Description |
+|---|---|
+| [AthleteAI Platform](https://github.com/THORAN7/AthleteAI-Platform) | AI-powered platform for athlete-focused tools and experiences. |
+| [Object Detection](https://github.com/THORAN7/Object-detection) | Computer vision project for identifying objects in images. |
+| [Discord BOT](https://github.com/THORAN7/Discord-BOT) | Python bot for Discord automation and interactions. |
+| [Sentiment Analysis WebApp](https://github.com/THORAN7/Sentiment-Analysis-WebApp) | Web app that analyzes sentiment from written text. |
+
 ## 📊 GitHub activity
 
 <div align="center">
