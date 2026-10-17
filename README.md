@@ -69,10 +69,21 @@ I'm a developer building practical projects across **AI, machine learning, compu
 <details>
 <summary><b>Project highlights</b></summary>
 
-- **AthleteAI Platform** — AI-powered tools for athlete-focused experiences.
-- **Object Detection** — Computer vision for identifying objects in images.
-- **Discord BOT** — Python-based Discord automation and interactions.
-- **Sentiment Analysis WebApp** — Web app for analyzing sentiment in text.
+### 🏃 AthleteAI Platform
+
+AI-powered platform focused on building practical tools and experiences for athletes. The project demonstrates full-stack product development, modern JavaScript application design, and the integration of intelligent features into a user-focused platform.
+
+### 👁️ Object Detection Studio
+
+A YOLOv8-powered computer vision dashboard built with Python and Streamlit. It detects and labels objects in images while providing configurable confidence thresholds, annotated previews, detection statistics, and optimized model inference.
+
+### 🤖 Discord Bot Suite
+
+A modular Python bot built with discord.py for server management and community engagement. It provides moderation, auto-moderation, welcome systems, tickets, giveaways, leveling, custom commands, logging, and music playback with queue controls.
+
+### 💬 Sentiment Analysis WebApp
+
+An NLP-powered platform that analyzes text, website content, Amazon reviews, and Reddit discussions using NLTK VADER. It provides sentiment classification, text summarization, interactive charts, and both Streamlit and Tkinter interfaces.
 
 </details>
 
