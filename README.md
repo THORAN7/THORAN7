@@ -2,17 +2,17 @@
 
 <img src="./assets/thoran-banner.svg" width="100%" alt="Animated cyber-neon banner for THORAN" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Building+the+future+one+project+at+a+time;AI+%26+Machine+Learning+Builder;Computer+Vision+Enthusiast;Python+%7C+JavaScript+Developer" alt="Animated typing introduction for THORAN" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=THORAN+%7C+AI+%26+Full-Stack+Developer;Building+ideas+into+useful+projects;Always+learning%2C+always+shipping" alt="Typing introduction" /></a>
 
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=THORAN+%7C+Building+practical+AI+experiences;Learn.+Build.+Break.+Improve.;Turning+ideas+into+working+projects." alt="Animated About me text" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=THORAN+%7C+Building+practical+things+with+code;AI+%7C+Machine+Learning+%7C+Web+Development;Curious+mind.+Consistent+builder." alt="About THORAN" />
 </div>
 
-I'm a developer building practical projects across **AI, machine learning, computer vision, web applications, and automation**. I enjoy learning by shipping, experimenting with new ideas, and turning technical concepts into useful products.
+I'm a developer building practical projects across **AI, machine learning, computer vision, web applications, and automation**. I enjoy learning by shipping, experimenting with new ideas, and turning challenges into useful products.
 
 - 🔭 Currently building AI-powered and full-stack projects
 - 🧠 Exploring machine learning, computer vision, and intelligent applications
@@ -22,7 +22,7 @@ I'm a developer building practical projects across **AI, machine learning, compu
 ## 🌐 Contact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=EC4899&center=true&vCenter=true&width=760&lines=Let's+connect+and+build+something+great!;Always+open+to+new+ideas+and+collaborations." alt="Animated contact message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=EC4899&center=true&vCenter=true&width=760&lines=Let's+connect+and+build+something+great+together" alt="Let's connect" />
 
   <p>
     <a href="https://www.linkedin.com/in/thoran-o-b6921b3bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with THORAN on LinkedIn" /></a>
@@ -56,51 +56,30 @@ I'm a developer building practical projects across **AI, machine learning, compu
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
 <a href="https://github.com/THORAN7/AthleteAI-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=AthleteAI-Platform&theme=tokyonight&hide_border=true" alt="AthleteAI Platform" /></a>
+<a href="https://github.com/THORAN7/Object-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Object-detection&theme=tokyonight&hide_border=true" alt="Object Detection Studio" /></a>
 
-**AthleteAI Platform**  
-AI-powered tools and experiences for athletes, demonstrating modern JavaScript development and practical intelligent product design.
+<br>
 
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/THORAN7/Object-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Object-detection&theme=tokyonight&hide_border=true" alt="Object Detection" /></a>
-
-**Object Detection Studio**  
-YOLOv8-powered computer vision dashboard for detecting and labeling objects with configurable inference settings and visual results.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/THORAN7/Discord-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Discord-BOT&theme=tokyonight&hide_border=true" alt="Discord Bot Suite" /></a>
-
-**Discord Bot Suite**  
-Modular Python bot for server moderation, automation, welcome systems, tickets, giveaways, leveling, logging, and music playback.
-
-</td>
-<td width="50%" align="center" valign="top">
-
+<a href="https://github.com/THORAN7/Discord-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Discord-BOT&theme=tokyonight&hide_border=true" alt="Discord BOT" /></a>
 <a href="https://github.com/THORAN7/Sentiment-Analysis-WebApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=THORAN7&repo=Sentiment-Analysis-WebApp&theme=tokyonight&hide_border=true" alt="Sentiment Analysis WebApp" /></a>
 
-**Sentiment Analysis WebApp**  
-NLP platform for analyzing text, website content, Amazon reviews, and Reddit discussions with sentiment scoring and interactive charts.
-
-</td>
-</tr>
-</table>
-
 </div>
+
+<details>
+<summary><b>Project highlights</b></summary>
+
+- **AthleteAI Platform** — AI-powered tools for athlete-focused experiences.
+- **Object Detection** — Computer vision for identifying objects in images.
+- **Discord BOT** — Python-based Discord automation and interactions.
+- **Sentiment Analysis WebApp** — Web app for analyzing sentiment in text.
+
+</details>
 
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THORAN7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="THORAN GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THORAN7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="THORAN GitHub activity" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THORAN7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages used by THORAN" />
 </div>
 
