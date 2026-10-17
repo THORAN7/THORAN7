@@ -1,12 +1,19 @@
 <div align="center">
 
-# Hey, I'm THORAN 👋
+# Hey, I'm THORAN7 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Builder;Computer+Vision+Enthusiast;Python+%7C+JavaScript+Developer;Turning+ideas+into+working+projects" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://github.com/THORAN7?tab=followers"><img src="https://img.shields.io/github/followers/THORAN7?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub followers" /></a>
-  <a href="https://github.com/THORAN7?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-Explore-8b5cf6?style=for-the-badge" alt="Public projects" /></a>
+  <a href="https://www.linkedin.com/in/thoran-o-b6921b3bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thoran075@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/730394857784475671">
+    <img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 </div>
